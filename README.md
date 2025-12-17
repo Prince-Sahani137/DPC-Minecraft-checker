@@ -28,6 +28,11 @@ cd DPC-Minecraft-checker
 pip install -r requirements.txt
 python DPC.py
 ```
-
+##Guide
+If you are having issues with pip try 
+```
+python3 -m pip install <package_name>
+```
+get the package names from requirements.txt if having issue again try to contact me.
 ## Usage:
 You are not allowed to sell dpc or any modified versions. If you use any of my code please give me credit.
