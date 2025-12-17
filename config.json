@@ -1,10 +1,10 @@
 [Settings]
-webhook = https://discord.com/api/webhooks/1436006847566839971/_PgvofnJys6dZosIx2_7mbAljjPTHh21SofitKW1ID13WrunEKrNWU8KOQN0JIX-HHW7
+webhook = <webhook url>
 embed = True
 max retries = 5
 proxyless ban check = True
-banned webhook = https://discord.com/api/webhooks/1402253552193114132/CYGd888plBuvc14z_Xj8zl29h7nR_kUuf9Gi5eIBQevhA3HT1DpJxqNX5PVEcAUU9cbV
-unbanned webhook = https://discord.com/api/webhooks/1402253754174013510/sqFWjfvTcC9y79E9ZMNP2qy5T-ams410HJzDq13A7cWCj8urjCWjVVE2JCmbFuHEln7g
+banned webhook = <webhook url>
+unbanned webhook = <webhook url>
 webhookmessage = ||`<email>:<password>`||
 	Name: <name>
 	Account Type: <type>
@@ -46,5 +46,6 @@ hypixel ban = True
 name change availability = True
 last name change = True
 payment = True
+
 
 v
