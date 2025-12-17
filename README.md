@@ -39,7 +39,7 @@ get the package names from requirements.txt if having issue again try to contact
 If u dont know how to use so here is a quick guide
 - donwload the git repository and extract it
 - on the top bar you will see ``` Downloads > DPC-Minecraft-checker-main > DPC-Minecraft-checker-main ```
-- tap on it and type ```cmd``` and enter and use ``` python3 -m pip install -r requirements.txt python dpc.py ```
+- tap on it and type ```cmd``` and enter and use ``` python3 -m pip install -r requirements.txt``` and then ``` python dpc.py ```
 - i recommend 5 threads without proxy and just use your ur mind next its not that hard.
 
 ## Usage:
