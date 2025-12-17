@@ -28,8 +28,8 @@ cd DPC-Minecraft-checker
 pip install -r requirements.txt
 python DPC.py
 ```
-##Guide
-If you are having issues with pip try 
+##Guide:
+If you have installed python3 try
 ```
 python3 -m pip install <package_name>
 ```
