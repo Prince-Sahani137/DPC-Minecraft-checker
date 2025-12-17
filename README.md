@@ -23,16 +23,24 @@ You do not need to install tor. Tor is automatically installed when selected for
 
 install [python](https://www.python.org/downloads/) and [git](https://git-scm.com/download/win)
 ```
-git clone https://github.com/Prince-Sahani137/MSMC.git
+git clone https://github.com/Prince-Sahani137/DPC-Minecraft-checker.git
 cd DPC-Minecraft-checker
 python3 -m pip install -r requirements.txt
-python DPC.py
+python dpc.py
 ```
 ## Package issue solution:
-If you have installed python3 try
+If you have installed python3 and having issue try
 ```
 python3 -m pip install <package_name>
 ```
 get the package names from requirements.txt if having issue again try to contact me.
+
+## How to use
+If u dont know how to use so here is a quick guide
+- donwload the git repository and extract it
+- on the top bar you will see ``` Downloads > DPC-Minecraft-checker-main > DPC-Minecraft-checker-main ```
+- tap on it and type ```cmd``` and enter and use ``` python3 -m pip install -r requirements.txt python dpc.py ```
+- i recommend 5 threads without proxy and just use your ur mind next its not that hard.
+
 ## Usage:
 You are not allowed to sell dpc or any modified versions. If you use any of my code please give me credit.
