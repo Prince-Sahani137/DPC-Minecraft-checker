@@ -25,10 +25,10 @@ install [python](https://www.python.org/downloads/) and [git](https://git-scm.co
 ```
 git clone https://github.com/Prince-Sahani137/MSMC.git
 cd DPC-Minecraft-checker
-pip install -r requirements.txt
+python3 -m pip install -r requirements.txt
 python DPC.py
 ```
-##Guide:
+## Package issue solution:
 If you have installed python3 try
 ```
 python3 -m pip install <package_name>
